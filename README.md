@@ -51,8 +51,8 @@ Follow these instructions to set up and run the project locally.
    
 2. Navigate to the project directory:
 
- ```
-   cd food-emotion-feedback
+ ```bash
+cd food-emotion-feedback
 ```
 
 3. Install dependencies:
