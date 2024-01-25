@@ -47,6 +47,7 @@ Follow these instructions to set up and run the project locally.
 
    ```bash
    git clone https://github.com/your-username/food-emotion-feedback.git
+'''
    
 2. Navigate to the project directory:
 
