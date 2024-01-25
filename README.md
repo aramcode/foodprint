@@ -51,13 +51,14 @@ Follow these instructions to set up and run the project locally.
    
 2. Navigate to the project directory:
 
-   ```bash
+ ```bash
    cd food-emotion-feedback
 ```
 
-
 3. Install dependencies:
-   ```bash npm install
+
+ ```bash
+   bash npm install
 ```
 
 ### Usage
