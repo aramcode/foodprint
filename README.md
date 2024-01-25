@@ -8,7 +8,7 @@ This project consists of a web app designed to capture and prompt users to expre
 - **Submit Feedback:** Submit the feedback to the server using the "Submit" button.
 - **Responsive Design:** The form is designed to be responsive for various screen sizes. ( Needs update )
 
-## Image Processing and SVG Conversion
+### Image Processing and SVG Conversion
 
 This project includes a Python script (`image_processing.py`) for processing images and converting them to SVG using the Foodini API. This script performs the following steps:
 
@@ -51,13 +51,13 @@ Follow these instructions to set up and run the project locally.
    
 2. Navigate to the project directory:
 
- ```bash
-cd food-emotion-feedback
+    ```bash
+   cd food-emotion-feedback
 ```
 
 3. Install dependencies:
 
- ```bash
+    ```bash
    bash npm install
 ```
 
@@ -65,8 +65,8 @@ cd food-emotion-feedback
 
 1. Run the development server:
 
-```bash
-npm start
+   ```bash
+   npm start
 ```
 2. Open your browser and visit http://localhost:3000 to view the feedback form.
 
