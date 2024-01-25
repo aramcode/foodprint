@@ -1,0 +1,22 @@
+{
+  "1:": {
+    "value": "Sour",
+    "slider": 3
+  },
+  "2:": {
+    "value": "Sweet",
+    "slider": 4
+  },
+  "3:": {
+    "value": "Bitter",
+    "slider": 3
+  },
+  "4:": {
+    "value": "Original",
+    "slider": 3
+  },
+  "5:": {
+    "value": "Bitter",
+    "slider": 4
+  }
+}

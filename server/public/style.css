@@ -1,0 +1,52 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; /* Align items in a column */
+  height: 100vh;
+  background-color: #fde7da; /* Peach background for warmth */
+}
+
+#app {
+  text-align: center;
+}
+
+#image-container img {
+  max-width: 100%; /* Ensure the image spans the container width */
+  border-radius: 12px;
+  margin-bottom: 20px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow for a lifted effect */
+}
+
+#prompt-container {
+  background-color: #fff; /* White background for prompts */
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow for a card-like effect */
+}
+
+#prompt-text {
+  color: #6c757d; /* Dark grayish-blue text color for a soft appearance */
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+#enable-camera-btn,
+#capture-btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #f2766e; /* Coral-pink button color for a friendly feel */
+  color: #fff; /* White text color */
+  border: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+#enable-camera-btn:hover,
+#capture-btn:hover {
+  background-color: #e95f57; /* Darker coral-pink on hover */
+}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Feedback Form</title>
+    <link rel="stylesheet" href="feedback_style.css" />
+  </head>
+  <body>
+    <div id="form-container">
+      <h2>Feedback Form</h2>
+      <form id="feedback-form">
+        <div class="form-group">
+          <label for="dropdown1">1:</label>
+          <select id="dropdown1" name="dropdown1">
+            <option value="Original">Original</option>
+            <option value="Sour">Sour</option>
+            <option value="Sweet">Sweet</option>
+            <option value="Bitter">Bitter</option>
+            <option value="Spicy">Spicy</option>
+          </select>
+          <input
+            type="range"
+            id="slider1"
+            name="slider1"
+            min="1"
+            max="5"
+            value="3"
+          />
+          <span class="slider-value" id="slidervalue1">3</span>
+        </div>
+        <div class="form-group">
+          <label for="dropdown2">2:</label>
+          <select id="dropdown2" name="dropdown2">
+            <option value="Original">Original</option>
+            <option value="Sour">Sour</option>
+            <option value="Sweet">Sweet</option>
+            <option value="Bitter">Bitter</option>
+            <option value="Spicy">Spicy</option>
+          </select>
+          <input
+            type="range"
+            id="slider2"
+            name="slider2"
+            min="1"
+            max="5"
+            value="3"
+          />
+          <span class="slider-value" id="slidervalue2">3</span>
+        </div>
+        <div class="form-group">
+          <label for="dropdown3">3:</label>
+          <select id="dropdown3" name="dropdown3">
+            <option value="Original">Original</option>
+            <option value="Sour">Sour</option>
+            <option value="Sweet">Sweet</option>
+            <option value="Bitter">Bitter</option>
+            <option value="Spicy">Spicy</option>
+          </select>
+          <input
+            type="range"
+            id="slider3"
+            name="slider3"
+            min="1"
+            max="5"
+            value="3"
+          />
+          <span class="slider-value" id="slidervalue3">3</span>
+        </div>
+        <div class="form-group">
+          <label for="dropdown4">4:</label>
+          <select id="dropdown4" name="dropdown4">
+            <option value="Original">Original</option>
+            <option value="Sour">Sour</option>
+            <option value="Sweet">Sweet</option>
+            <option value="Bitter">Bitter</option>
+            <option value="Spicy">Spicy</option>
+          </select>
+          <input
+            type="range"
+            id="slider4"
+            name="slider4"
+            min="1"
+            max="5"
+            value="3"
+          />
+          <span class="slider-value" id="slidervalue4">3</span>
+        </div>
+        <div class="form-group">
+          <label for="dropdown5">5:</label>
+          <select id="dropdown5" name="dropdown5">
+            <option value="Original">Original</option>
+            <option value="Sour">Sour</option>
+            <option value="Sweet">Sweet</option>
+            <option value="Bitter">Bitter</option>
+            <option value="Spicy">Spicy</option>
+          </select>
+          <input
+            type="range"
+            id="slider5"
+            name="slider5"
+            min="1"
+            max="5"
+            value="3"
+          />
+          <span class="slider-value" id="slidervalue5">3</span>
+        </div>
+        <button type="button" id="submitBtn">Submit</button>
+      </form>
+    </div>
+    <script src="feedback_script.js" defer></script>
+  </body>
+</html>

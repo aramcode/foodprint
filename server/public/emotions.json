@@ -1,0 +1,70 @@
+[
+  {
+    "emotion": "Joy",
+    "prompt": "A group of children flying kites in the sunshine."
+  },
+  {
+    "emotion": "Mystery",
+    "prompt": "An ancient castle barely visible in the night."
+  },
+  { "emotion": "Tranquility", "prompt": "A quiet lakeside with morning mist." },
+  { "emotion": "Sadness", "prompt": "Autumn rain with leaves slowly falling." },
+  { "emotion": "Anger", "prompt": "A desolate coast under a thunderstorm." },
+  {
+    "emotion": "Nostalgia",
+    "prompt": "An old street with vintage shops and street lamps."
+  },
+  {
+    "emotion": "Hope",
+    "prompt": "The first rays of sun lighting up the mountains at dawn."
+  },
+  {
+    "emotion": "Loneliness",
+    "prompt": "A person walking alone in an expansive desert."
+  },
+  {
+    "emotion": "Romance",
+    "prompt": "A couple walking under the stars at night."
+  },
+  {
+    "emotion": "Adventure",
+    "prompt": "A sailboat navigating through tumultuous seas."
+  },
+  {
+    "emotion": "Calm",
+    "prompt": "A serene library with neatly arranged bookshelves."
+  },
+  {
+    "emotion": "Excitement",
+    "prompt": "Hot air balloons flying in a colorful sky."
+  },
+  {
+    "emotion": "Longing",
+    "prompt": "An empty train station with a departing train."
+  },
+  {
+    "emotion": "Magic",
+    "prompt": "A forest filled with fantastical creatures."
+  },
+  {
+    "emotion": "Fear",
+    "prompt": "A dim alley with faint sounds in the distance."
+  },
+  {
+    "emotion": "Joy",
+    "prompt": "A lively amusement park with colorful lights."
+  },
+  { "emotion": "Fantasy", "prompt": "A floating city above the clouds." },
+  {
+    "emotion": "Contemplation",
+    "prompt": "A person walking along the beach at dusk."
+  },
+  {
+    "emotion": "Surprise",
+    "prompt": "Discovering a hidden waterfall in a tropical jungle."
+  },
+  {
+    "emotion": "Harmony",
+    "prompt": "A sunny field with animals living in peace."
+  }
+]

@@ -1,0 +1,66 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #fde7da; /* Peach background for warmth */
+}
+
+#form-container {
+  text-align: center;
+  background-color: #fff; /* White background for form */
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow for a card-like effect */
+}
+
+h2 {
+  color: #6c757d; /* Dark grayish-blue heading color for a soft appearance */
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 18px;
+  margin-right: 10px;
+  color: #333; /* Dark gray text color */
+}
+
+select {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd; /* Light gray border */
+  border-radius: 6px;
+}
+
+input[type="range"] {
+  width: 80%;
+  margin-top: 10px;
+}
+
+.slider-value {
+  display: inline-block;
+  margin-top: 5px;
+  color: #6c757d; /* Dark grayish-blue text color */
+}
+
+#submitBtn {
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #f2766e; /* Coral-pink button color for a friendly feel */
+  color: #fff; /* White text color */
+  border: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+#submitBtn:hover {
+  background-color: #e95f57; /* Darker coral-pink on hover */
+}
