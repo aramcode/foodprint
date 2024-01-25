@@ -30,7 +30,7 @@ Ensure you have Python installed on your machine and install the required librar
 
 ```bash
 pip install requests opencv-python
-
+```
 
 ## Getting Started
 
@@ -47,23 +47,23 @@ Follow these instructions to set up and run the project locally.
 
    ```bash
    git clone https://github.com/your-username/food-emotion-feedback.git
-'''
+```
    
 2. Navigate to the project directory:
 
-   '''bash
+   ```bash
    cd food-emotion-feedback
-
+```
 3. Install dependencies:
-   '''bash npm install
-
+   ```bash npm install
+```
 ### Usage
 
 1. Run the development server:
 
-'''bash
+```bash
 npm start
-
+```
 2. Open your browser and visit http://localhost:3000 to view the feedback form.
 
 
